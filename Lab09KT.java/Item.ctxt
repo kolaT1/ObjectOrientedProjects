@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=id
+comment1.target=Item(java.lang.Long)
+comment2.params=
+comment2.target=java.lang.Long\ getId()
+comment3.params=id
+comment3.target=void\ setId(java.lang.Long)
+numComments=4

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ItemList
+comment1.params=
+comment1.target=ItemList()
+comment2.params=
+comment2.target=void\ addItem()
+comment3.params=
+comment3.target=void\ removeItem()
+comment4.params=
+comment4.target=void\ printItemList()
+comment5.params=
+comment5.target=void\ getItem()
+comment6.params=
+comment6.target=void\ clearList()
+comment7.params=
+comment7.target=void\ deleteSandL()
+comment8.params=
+comment8.target=void\ reverseList()
+numComments=9

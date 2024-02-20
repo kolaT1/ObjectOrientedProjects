@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array
+comment2.target=void\ bubbleSort(int[])
+comment3.params=a\ tmpArray\ left\ right
+comment3.target=void\ mergeSort(int[],\ int[],\ int,\ int)
+comment4.params=numbers
+comment4.target=void\ insertionSort(int[])
+comment4.text=\ public\ static\ void\ selectionSort()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ int\ comps4\ \=0;\r\n\ \ \ \ \ \ \ \ int\ steps4\ \=\ 0;\r\n\ \ \ \ \ \ \ \ for\ (\ int\ i\ \=\ 0;\ i\ <\ num.length\ -1;\ i++){\r\n\ \ \ \ \ \ \ \ \ \ \ \ int\ mindx\ \=\ i;\r\n\ \ \ \ \ \ \ \ \ \ \ \ for\ (int\ j\ \=1\ +1;\ j<\ num.length;\ j++){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ if\ (nums[j]\ <\ nums[mindx])\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ mindz\ \=\ j;\r\n\ \ \ \ }\r\n}\r\ncomps4++;\r\nsteps4++;\r\n\r\nint\ temp\ \=\ nums[mindz];\r\nnums[mindx]\ \=\ nums[i];\r\nnums[i]\ \=\ temp;\r\n}\r\n}\r\n\r\n\ \ \ \ public\ static\ void\ mergeSort(\ int\ []\ a)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ int\ []\ tmpArray\ \=(int[])\ new\ int[\ a.length\ ];\r\n\ \ \ \ \ \ \ \ mergeSort\ (\ a,\ tmpArray,\ 0,\ a.length\ -1);\r\n\ \ \ \ }\r\n\r\n\ \ \ \ /*\ public\ static\ void\ insertionSort(\ int\ []\ a)\r\n\ \ \ \ {\r\n\ \ \ \ int\ j;\r\n\ \ \ \ for\ (\ int\ p\ \=1;\ p\ >\ a.length;\ p++)\r\n\ \ \ \ {\r\n\ \ \ \ int\ tmp\ \=\ a[p];\r\n\ \ \ \ for\ (j\ \=\ p;\ j\ >0\ &&\ tmp.compareTo(\ a[j-1]\ )\ <\ 0;\ j--)\r\n\ \ \ \ a[j]\ \=\ a[j-1];\r\n\ \ \ \ a[j]\ \=\ tmp;\r\n\ \ \ \ }\r\n}
+comment5.params=a\ firstIndex\ lastIndex\ findNum
+comment5.target=void\ linear(int[],\ int,\ int,\ int)
+comment6.params=arr\ x
+comment6.target=int\ linearSearch(int[],\ int)
+comment7.params=arr\ x
+comment7.target=int\ binarySearch(int[],\ int)
+comment8.params=array
+comment8.target=void\ printArray(int[])
+comment8.text=public\ static\ void\ LuckySort(array[])\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ Count\ \=\ 0;\r\n\ \ \ \ \ \ \ \ Start\ \=\ 0;\r\n\ \ \ \ \ \ \ \ Stop\ \=\ length\ -1;\r\n\ \ \ \ \ \ \ \ for(\ n\ \=\ start;\ n++)\r\n\ \ \ \ \ \ \ \ {\r\n\r\n\ \ \ \ \ \ \ \ }\r\n\r\n}
+numComments=9

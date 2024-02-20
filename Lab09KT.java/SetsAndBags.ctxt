@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SetsAndBags
+comment1.params=n
+comment1.target=java.util.ArrayList\ divisors(int)
+comment2.params=n
+comment2.target=java.util.ArrayList\ factors(int)
+comment3.params=m\ n
+comment3.target=int\ gcd(int,\ int)
+comment4.params=m\ n
+comment4.target=int\ lcm(int,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
